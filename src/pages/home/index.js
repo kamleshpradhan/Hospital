@@ -4,6 +4,7 @@ export default function Home(){
         <div>
             This is the home Page
             <Link href="/products">Products Page</Link>
+            <p>Data to be added</p>
         </div>
     )
 }
